@@ -1,0 +1,11 @@
+{
+  "netuid": 26,
+  "alchemy.debug": false,
+  "alchemy.name": "tensor_alchemy_validator",
+  "alchemy.device": "cuda:0",
+  "alchemy.ma_decay": 0.005,
+  "alchemy.request_frequency": 35,
+  "alchemy.query_timeout": 20,
+  "alchemy.async_timeout": 2.0,
+  "alchemy.epoch_length": 100
+}

@@ -7,5 +7,5 @@
   "request_frequency": 35,
   "query_timeout": 20,
   "async_timeout": 2.0,
-  "epoch_length": 100
+  "epoch_length": 120
 }

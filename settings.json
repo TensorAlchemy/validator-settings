@@ -4,7 +4,7 @@
   "name": "tensor_alchemy_validator",
   "device": "cuda:0",
   "ma_decay": 0.0,
-  "ma_decay_cycles": 12,
+  "ma_decay_cycles": 16,
   "delta_factor": 0.5,
   "request_frequency": 35,
   "query_timeout": 20,

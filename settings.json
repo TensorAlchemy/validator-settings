@@ -3,7 +3,7 @@
   "debug": false,
   "name": "tensor_alchemy_validator",
   "device": "cuda:0",
-  "ma_decay": 0.0015,
+  "ma_decay": 0.0,
   "ma_decay_cycles": 32,
   "delta_factor": 0.5,
   "request_frequency": 35,
